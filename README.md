@@ -14,6 +14,6 @@ Make sure the video files and xml file and the python notebook/ python file are 
 This project requires you to have the basic knowledge of python and its syntax. The basic knowledge of opencv is essential, but in-depth working and knowledge can be found on countless online sources.  
 
 **Installation**   
-You might need to install a few packages with the commands listed below, run these in your command prompt(windows) or terminal(mac os)
-pip install imutils
-pip install opencv
+You might need to install a few packages with the commands listed below, run these in your command prompt(windows) or terminal(mac os)  
+* pip install imutils
+* pip install opencv
